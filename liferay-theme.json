@@ -1,0 +1,10 @@
+{
+  "LiferayTheme": {
+    "appServerPath": "/Users/marcoscastro/projects/liferays/liferay-ce-portal-7.0-ga3/tomcat-8.0.32",
+    "deployPath": "/Users/marcoscastro/projects/liferays/liferay-ce-portal-7.0-ga3/deploy",
+    "url": "http://localhost:8080",
+    "appServerPathPlugin": "/Users/marcoscastro/projects/liferays/liferay-ce-portal-7.0-ga3/tomcat-8.0.32/webapps/styled-svg-sprite",
+    "deployed": false,
+    "pluginName": "styled-svg-sprite"
+  }
+}
