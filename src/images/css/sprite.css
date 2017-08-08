@@ -8,7 +8,7 @@
     display: inline-block;
     background-image: url("../theme-icons.svg");
     background-repeat: no-repeat;
-    background-size: 51.2em 204.8em;
+    background-size: 51.2em 358.4em;
 }
 
 .no-svg .icon:before {
@@ -26,7 +26,7 @@
 
 
 
-  .icon.icon-search:before {
+  .icon.icon-bag-full:before {
       background-position: 0em -51.2em;
       width: 51.2em;
       height: 51.2em;
@@ -35,7 +35,7 @@
 
 
 
-  .icon.icon-user:before {
+  .icon.icon-close:before {
       background-position: 0em -102.4em;
       width: 51.2em;
       height: 51.2em;
@@ -44,8 +44,35 @@
 
 
 
-  .icon.icon-whislist:before {
+  .icon.icon-search:before {
       background-position: 0em -153.6em;
+      width: 51.2em;
+      height: 51.2em;
+  }
+
+
+
+
+  .icon.icon-user:before {
+      background-position: 0em -204.8em;
+      width: 51.2em;
+      height: 51.2em;
+  }
+
+
+
+
+  .icon.icon-whislist:before {
+      background-position: 0em -256em;
+      width: 51.2em;
+      height: 51.2em;
+  }
+
+
+
+
+  .icon.icon-whislist-full:before {
+      background-position: 0em -307.2em;
       width: 51.2em;
       height: 51.2em;
   }
