@@ -1,6 +1,6 @@
 # styled-svg-sprite-theme
 
-Theme example which extend liferayThemeTasks by adding a new task to create SVG sprites.
+Theme example which extends liferayThemeTasks by adding a new task to create SVG sprites.
 
 ## Steps to create the sprite:
 
