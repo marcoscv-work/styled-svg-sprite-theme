@@ -25,7 +25,8 @@ liferayThemeTasks.registerTasks({
 	hookFn: function(gulp) {
 		gulp.hook('before:build:base', function(done) {
 			runSequence(
-				'build:svgSprite'
+				'build:svgSprite',
+				done
 			)
 		});
 	}
